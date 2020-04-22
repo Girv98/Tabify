@@ -9,9 +9,7 @@ CQT_THRESH = -61                    # Threshold for CQT dB levels, all values be
 
 
 # NFFT = ceil(FS/Fmin)
-# ergo, with a FS of 44100
-# and NFFT of 2048
-# gives a minimum freq res of ~20-22Hz
-
+# therfore
 # FS of 44100 and NFFT of 2048
 # gives a minimum freq res of ~31Hz
+
