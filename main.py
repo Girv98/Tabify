@@ -8,11 +8,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 import librosa, librosa.display
-import re
+import os
 
 import fretboard as fb
 
-import os
 
 from variables import (
     NFFT,
