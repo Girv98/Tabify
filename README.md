@@ -7,6 +7,8 @@ Works best with clean audio (reverb and other effects will not work correctly)
 
 It can produce chords, though arpeggios/monophonic recordings work best
 
+Have a play with the variables.py file, see what works
+
 REQUIREMENTS
 ------------
 - numpy
@@ -18,6 +20,8 @@ REQUIREMENTS
 - librosa
 
 - math
+
+- itertools
 
 - io
 
