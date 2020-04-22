@@ -11,15 +11,15 @@ REQUIREMENTS
 ------------
 - numpy
 
-> matplotlib
+- matplotlib
 
-> scipy
+- scipy
 
-> librosa
+- librosa
 
-> math
+- math
 
-> io
+- io
 
-> os
+- os
 
