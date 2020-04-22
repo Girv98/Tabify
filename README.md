@@ -8,10 +8,10 @@ It can produce chords, though arpeggios/monophonic recordings work best
 
 REQUIREMENTS
 ------------
-numpy
-matplotlib
-scipy
-librosa
-math
-io
-os
+> numpy
+> matplotlib
+> scipy
+> librosa
+> math
+> io
+> os
