@@ -9,7 +9,7 @@ It can produce chords, though arpeggios/monophonic recordings work best
 
 REQUIREMENTS
 ------------
-> numpy
+- numpy
 
 > matplotlib
 
